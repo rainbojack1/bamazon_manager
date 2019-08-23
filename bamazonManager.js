@@ -12,7 +12,7 @@ start();
 
 function start(){
 connection.connect(function (err) {
-    if(err) throw err;
+    //if(err) throw err;
     
     inquirer
     .prompt([
