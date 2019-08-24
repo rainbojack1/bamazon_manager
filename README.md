@@ -40,8 +40,8 @@ Run "npm install" to download the dependencies for this project.
 
   * If a manager selects `Add New Product`, it should allow the manager to add a completely new product to the store.
 
-  ![image](./assets/images/addNewProduct.JPG)
+    ![image](./assets/images/addNewProduct.JPG)
 
   * If a manager selects `Display Sales Figures`, it should display the sales figures and the highest grossing department and end the connection.
 
-  ![image](./assets/images/displaySalesFigures.JPG)
+    ![image](./assets/images/displaySalesFigures.JPG)
