@@ -1,4 +1,4 @@
-# bamazon_manager
+# bamazon_manager - Bamazon Challenge #2
 The manager view of an Amazon-like storefront using MySQL
 
 ## Technologies Used
